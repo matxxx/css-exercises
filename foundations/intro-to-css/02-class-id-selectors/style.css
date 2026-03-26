@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.odd {
+background-color: rgba(200, 0, 10, 0.386);
+font-family: 'DejaVu Sans', sans-serif;
+}
+
+#blueid {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: rgb(0,255,0,0.5);
+    font-size: 24px;
+    font-weight: bold;
+
+}
