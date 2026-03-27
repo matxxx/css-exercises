@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.primaryButton {
+    background-color: black;
+    color: white;
+}
+
+.secondaryButton {
+    background-color: yellow;
+}
+
+.primaryButton,
+.secondaryButton {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
